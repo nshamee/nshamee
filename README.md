@@ -1,4 +1,8 @@
-### Hi there 👋
+# Nabil 👋
+
+**`Software Developer`**
+
+I am a web developer who is a student at Hunter College. 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nshamee&theme=dark&hide_border=true)](https://git.io/streak-stats)
