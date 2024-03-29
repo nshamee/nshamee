@@ -4,7 +4,7 @@
 
 I am a web developer who is a student at Hunter College. 
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwindcss,git,vscode)](https://skillicons.dev)
 
 
 
