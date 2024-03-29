@@ -4,6 +4,7 @@
 
 I am a web developer who is a student at Hunter College. 
 
+Languages: Python,C++,Javascript,HTML,CSS.
 
 
 
