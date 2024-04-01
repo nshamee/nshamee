@@ -17,7 +17,7 @@ I am a web developer who is a student at Hunter College.
 
 ## My Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwindcss,git,vscode)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwindcss,git,vscode)](https://skillicons.dev)
 
 <!--
 **nshamee/nshamee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
