@@ -15,9 +15,9 @@ I am a web developer who is a student at Hunter College.
 
 <img width="946" alt="gameplay" src="https://github.com/nshamee/nshamee/assets/80434243/290255ef-637f-4020-90f4-b47a40b2de99">
 
-## My Skills 
+<!-- ## My Skills 
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwindcss,git,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwindcss,git,vscode)](https://skillicons.dev)
 
 <!--
 **nshamee/nshamee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
