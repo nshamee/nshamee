@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I am a web developer who is a student at Hunter College. 
+I am a web developer who is a student at Hunter College. I started my programming journey when I was 12 in a computer class, and since I built my first website then I was hooked. I love to use software to help the user have the best experience. Apart from my coursework, I also like to play soccer and read.
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwindcss,git,vscode)](https://skillicons.dev)
 
