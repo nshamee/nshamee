@@ -9,9 +9,10 @@ I am a software developer who is a student at Hunter College. I started my progr
 ## Current Projects:
 
 ### Ai Study Website (JavaScript, Python, Django) 📚
-<img width="975" alt="Screenshot 2024-04-04 at 6 01 23 PM" src="https://github.com/nshamee/nshamee/assets/80434243/52a8caa4-cc11-473a-9626-f32d2f3efbe4">
-<img width="1010" alt="Screenshot 2024-04-04 at 6 03 16 PM" src="https://github.com/nshamee/nshamee/assets/80434243/d18de54e-95af-4f64-a596-cd290adb37d9">
-<img width="1063" alt="Screenshot 2024-04-04 at 6 02 54 PM" src="https://github.com/nshamee/nshamee/assets/80434243/60ce2768-4708-4cd9-bd29-48e01e92ebd4">
+<img width="817" alt="Screenshot 2024-03-31 at 3 24 25 PM" src="https://github.com/nshamee/nshamee/assets/80434243/c9503764-a682-40c1-a134-9b93b5d18fac">
+
+<img width="790" alt="Screenshot 2024-03-31 at 3 24 40 PM" src="https://github.com/nshamee/nshamee/assets/80434243/de4d0a20-09aa-4eab-bbb6-4e2117e25a73">
+
 
 
 ### Alien Invasion (Python, Libraries) 🛸
