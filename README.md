@@ -9,9 +9,10 @@ I am a software developer who is a student at Hunter College. I started my progr
 ## Current Projects:
 
 ### Ai Study Website (JavaScript, Python, Django) 📚
-<img width="817" alt="Screenshot 2024-03-31 at 3 24 25 PM" src="https://github.com/nshamee/nshamee/assets/80434243/c9503764-a682-40c1-a134-9b93b5d18fac">
+<img width="852" alt="Screenshot 2024-04-05 at 12 05 12 PM" src="https://github.com/nshamee/nshamee/assets/80434243/b65ec1f8-3fe0-463d-9b1c-92de9a81bcbd">
+<img width="849" alt="Screenshot 2024-04-05 at 12 05 54 PM" src="https://github.com/nshamee/nshamee/assets/80434243/35f02969-123e-44b7-ac78-8d84c6356115">
+<img width="852" alt="Screenshot 2024-04-05 at 12 06 16 PM" src="https://github.com/nshamee/nshamee/assets/80434243/5de8f4b0-1b21-437e-acf1-71d9db32d516">
 
-<img width="790" alt="Screenshot 2024-03-31 at 3 24 40 PM" src="https://github.com/nshamee/nshamee/assets/80434243/de4d0a20-09aa-4eab-bbb6-4e2117e25a73">
 
 
 
