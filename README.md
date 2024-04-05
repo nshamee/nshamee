@@ -1,6 +1,6 @@
 # Nabil 👋
 
-**`Software Developer`**
+**`Software Engineer`**
 
 I am a software developer who is a student at Hunter College. I started my programming journey when I was 12 in technology class. I built my first website (a connection page for my online video game group), and since then I was hooked. I love to use code to help the user have the best experience. I believe that software is a product that, if leveraged well, can improve people's quality of life and make it easier. Apart from my coursework, I also like to play soccer (played on my schools team) and read.
 
