@@ -13,13 +13,6 @@ I am a software developer who is a student at Hunter College. I started my progr
 <img width="959" alt="Screenshot 2024-04-05 at 12 13 02 PM" src="https://github.com/nshamee/nshamee/assets/80434243/f000bf0d-dc42-4eae-9019-e026b1136331">
 <img width="963" alt="Screenshot 2024-04-05 at 12 13 21 PM" src="https://github.com/nshamee/nshamee/assets/80434243/821110b3-4a54-4f0a-a600-c641e86333a4">
 
-
-
-### Alien Invasion (Python, Libraries) 🛸
-
-
-<img width="946" alt="gameplay" src="https://github.com/nshamee/nshamee/assets/80434243/6273b892-36b3-4e6b-9997-6105739804c0">
-
 <!--## Current Projects:
 
 ### Ai Study Website (JavaScript, Python, Django) 📚
