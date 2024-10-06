@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I am a software developer who is a student at Hunter College. I believe that software is a product that, if leveraged well, can improve people's quality of life and make it easier. My interests lie in Data Analysis, with past experience working with the NYC Government.
+I am a software developer who is a student at Hunter College. I believe that software is a product that, if leveraged well, can improve people's quality of life and make it easier.
 
 
 <!--## Current Projects:
